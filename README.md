@@ -1,0 +1,1 @@
+A simple Quote of the Day server. Useful for testing TCP/UDP connectivity, but somewhat exploitable if left open.

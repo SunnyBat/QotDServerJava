@@ -1,0 +1,34 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# VM Error Logs #
+hs_err_pid*
+
+# Ignore Netbeans-specific stuff #
+build/
+dist/
+lib/
+nbproject/
+build.xml
+manifest.mf
+
+# Ignore project-specific stuff #
+/PAXChecker.iml
+/out
+/.idea
+*.txt
+
+/PAXChecker.iml
+# Ignore library docs and stuff #
+/.idea/libraries/*
+.DS_Store
+/.idea
+/out
+/.idea/libraries
